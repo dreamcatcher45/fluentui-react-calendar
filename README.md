@@ -5,6 +5,9 @@ A read-only, view-only calendar component for React applications with day, week,
 ![npm](https://img.shields.io/npm/v/fluentui-react-calendar)
 ![license](https://img.shields.io/npm/l/fluentui-react-calendar)
 
+**Website:** [https://fluentui-calendar.pages.dev/](https://fluentui-calendar.pages.dev/)
+
+
 ## Features
 
 - **Multiple Views**: Seamlessly switch between day, week, and month views
@@ -134,7 +137,7 @@ const events = {
 
 ## License
 
-MIT
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contributing
 
