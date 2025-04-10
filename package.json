@@ -30,7 +30,17 @@
     "calendar",
     "fluentui",
     "events",
-    "readonly-calendar"
+    "readonly-calendar",
+    "react-component",
+    "date-picker",
+    "schedule",
+    "ui-library",
+    "react-calendar",
+    "date-management",
+    "event-calendar",
+    "month-view",
+    "week-view",
+    "day-view"
   ],
   "author": "dreamcatcher45",
   "license": "MIT"
