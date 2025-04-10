@@ -3,6 +3,7 @@
 A read-only, view-only calendar component for React applications with day, week, and month views. This lightweight component allows you to display events in a clean, modern interface inspired by the FluentUI design system.
 
 ![npm](https://img.shields.io/npm/v/fluentui-react-calendar)
+[![NPM Package](https://img.shields.io/badge/npm-fluentui--react--calendar-blue)](https://www.npmjs.com/package/fluentui-react-calendar)
 
 **Website:** [https://fluentui-calendar.pages.dev/](https://fluentui-calendar.pages.dev/)
 

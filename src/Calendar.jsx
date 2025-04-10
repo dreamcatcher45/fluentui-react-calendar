@@ -337,7 +337,7 @@ const Calendar = ({ events }) => {
       const { daysOfWeek } = calendarData;
       return (
         <h2>
-          Week of {daysOfWeek[0].toLocaleDateString('en-US', { month: 'short', day: 'numeric' })} - {daysOfWeek[6].toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+        {daysOfWeek[0].toLocaleDateString('en-US', { month: 'short', day: 'numeric' })} - {daysOfWeek[6].toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
         </h2>
       );
     } else if (view === 'day') {
@@ -350,7 +350,7 @@ const Calendar = ({ events }) => {
   return (
     <div className="calendar-container">
       <div className="calendar-header">
-      <div style={{ width: "160px" }}>
+      <div style={{ width: "200px" }}>
   <div className="calendar-title">
     {title}
   </div>
