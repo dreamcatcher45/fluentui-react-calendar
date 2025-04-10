@@ -1,6 +1,6 @@
 {
   "name": "fluentui-react-calendar",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A read-only calendar component with day, week, and month views for React applications",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
